@@ -21,13 +21,13 @@ Since you've decided to join Kent Robotics, follow these directions to get start
  
 3. Enter the fields accordingly </br>
  ![Image for direction 3](https://docs.wpilib.org/en/stable/_images/new-project-creator.png) </br>
- 3-1: Project Type: The kind of project we wish to create. </br>
- 3-2: Language: This is the language (C++ or Java) that will be used for this project. </br>
- 3-3: Project Base: If this is a template project, this specifies the type of template that will be used. </br>
+ 3-1: Project Type: The kind of project we wish to create. Select template </br>
+ 3-2: Language: This is the language (C++ or Java) that will be used for this project. Select Java.</br>
+ 3-3: Project Base: If this is a template project, this specifies the type of template that will be used. Selected Command Robot(not the old type)</br>
  3-4: Project Location: This determines the folder in which the robot project will be located. </br>
  3-5: Create New Folder: If this is checked, a new folder will be created to hold the project within the previously-specified folder. If it is not checked, the project will be located directly in the previously-specified folder. An error will be thrown if the folder is not empty and this is not checked. </br>
  3-6: Project Name: The name of the robot project. This also specifies the name that the project folder will be given if the Create New Folder box is checked. </br>
- 3-7: Team Number: The team number for the project, which will be used for package names within the project and to locate the robot when deploying code. </br>
+ 3-7: Team Number: The team number for the project, which will be used for package names within the project and to locate the robot when deploying code. (Put in 2785) </br>
 
 4. Click on the icon again and type in Manage Vendor Libraries. Click on Install new libraries (offline) </br>
  ![Image for direction 4](https://docs.wpilib.org/en/stable/_images/adding-offline-library.png)
