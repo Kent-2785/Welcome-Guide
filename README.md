@@ -33,4 +33,7 @@ Since you've decided to join Kent Robotics, follow these directions to get start
  ![Image for direction 4](https://docs.wpilib.org/en/stable/_images/adding-offline-library.png)
 5. Select the latest firmware version and install </br>
 
+# Setting up the Robot
 
+
+# Building and Running the Code
