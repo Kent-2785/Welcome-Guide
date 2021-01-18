@@ -88,6 +88,17 @@ Since you've decided to join Kent Robotics, follow these directions to get start
 If you get an error message about “NPF adapter” when attempting to load firmware, you need to disable all other adapters. This is not always the same as turning the adapters off with a physical button or putting the PC into airplane mode. The following steps provide more detail on how to disable adapters. Go the Control Panel and search for **Change adapter settings**. For each adapter other than the one connected to the radio, right click on the adapter and select Disable from the menu. </br>
 ![Image for troubleshooting](https://docs.wpilib.org/en/stable/_images/disable-network-adapter.png)
 
+## Pheonix Firmware
+
+### Introduction
+The Pheonix software helps us configure most electronic devices such as motor controllers, encoder, or gyro sensors. The software contains valuable information for us to set up our robot This is where we assign the numbers to motor controllers and troubleshoot any issues. We can directly read values from these devices or control them manually without running any code. 
+
+### Device Management
+Below is a picture of what you'll see if you connect the robot with the computer. All of the devices will show up on the screen.
+(need picture)
+
+
+
 # Building and Running the Code
 To build and deploy a robot project, do one of (just pick 1 from 3): </br>
     1. Open the Command Palette and enter/select “Build Robot Code” (or) </br>
